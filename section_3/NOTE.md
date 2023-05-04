@@ -26,7 +26,7 @@ python manage.py startapp polls
         return HttpResponse("Hello, world. You're at the polls index.")
     ```
 
-    - create polls/urls.py and update the content
+  - create polls/urls.py and update the content
 
     ```python
     from django.urls import path
@@ -38,7 +38,7 @@ python manage.py startapp polls
     ]
     ```
 
-    - update mysite/urls.py
+  - update mysite/urls.py
 
     ```python
     from django.contrib import admin
