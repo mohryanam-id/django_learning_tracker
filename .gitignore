@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.env.local
+.env.*.local
+*.sqlite3
+
+# Media and static files
+media/
+static/
+
+# Secret key file
+secret_key.txt
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.dump
+*.pydevproject
+
+# IDE files
+.idea/
+.vscode/
+
+# Virtual Environmnet
+venv
