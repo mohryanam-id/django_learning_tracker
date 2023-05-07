@@ -6,7 +6,7 @@
 
 - [x] [Part 3: Views and Templates](NOTE_PART_3.md)
 
-- [ ] [Part 4: Forms and Generic Views](NOTE_PART_4.md)
+- [x] [Part 4: Forms and Generic Views](NOTE_PART_4.md)
 
 - [ ] [Part 5: Testing](NOTE_PART_5.md)
 
