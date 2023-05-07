@@ -8,7 +8,7 @@
 
 - [x] [Part 4: Forms and Generic Views](NOTE_PART_4.md)
 
-- [ ] [Part 5: Testing](NOTE_PART_5.md)
+- [x] [Part 5: Testing](NOTE_PART_5.md)
 
 - [ ] [Part 6: Static Files](NOTE_PART_6.md)
 
