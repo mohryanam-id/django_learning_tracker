@@ -1,4 +1,4 @@
-# PART 3
+# PART 3: Views and Templates
 
 ## Writing More Views on polls/views.py, Wiring them to polls/urls.py and Using template system
 

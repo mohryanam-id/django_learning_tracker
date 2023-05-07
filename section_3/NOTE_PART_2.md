@@ -1,4 +1,4 @@
-# PART 2
+# PART 2: Models and the Admin Site
 
 ## Database Setup
 
